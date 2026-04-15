@@ -95,35 +95,5 @@ and interactive dashboard visualization.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://github.com/Chaithrakulal-23/Excel-ECommerce-Restaurant-Analytics-Dashboard/blob/8c5f0a1c4390973dd0b00ee802b8e92185543448/DA_Project.png)
 
----
-
-## File Structure
-
-```
-DA_Portfolio_YourName.xlsx
-├── Zomato_Raw          → Original Zomato data
-├── Ecomm_Raw           → Original E-Commerce data
-├── Zomato_Clean        → Cleaned Zomato data
-├── Ecomm_Clean         → Cleaned + Joined E-Commerce data
-├── Analysis            → Formula-based analysis tables
-├── Pivot_Analysis      → All PivotTables
-└── Dashboard           → Interactive Dashboard
-```
-
----
-
-## How to Use
-
-1. Download the Excel file
-2. Open in Microsoft Excel 2019 or Office 365
-3. Go to Dashboard sheet
-4. Use the Category slicer to filter all charts interactively
-
----
-
-## Author
-
-**Chaithra**
-Aspiring Data Analyst | Excel • SQL • Power BI • Python
