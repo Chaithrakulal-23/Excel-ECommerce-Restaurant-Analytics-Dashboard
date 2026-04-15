@@ -1,5 +1,4 @@
 # E-Commerce & Restaurant Analytics Dashboard
-### Excel Data Analytics Portfolio Project
 
 ---
 
